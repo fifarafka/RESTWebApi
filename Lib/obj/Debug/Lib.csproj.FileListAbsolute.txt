@@ -1,0 +1,7 @@
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\bin\Debug\Lib.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\bin\Debug\Lib.pdb
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\bin\Debug\LiteDB.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\bin\Debug\LiteDB.xml
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\obj\Debug\Lib.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania6\CRUDService\obj\Debug\Lib.pdb
